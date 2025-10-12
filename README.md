@@ -1,4 +1,4 @@
-# Eunil Park - GameSDK  Engineer
+# Eunil Park - Game/SDK Engineer
 
 # Summary
  고교때부터 Win32, DirectX를 수학하고 
@@ -9,36 +9,32 @@
  어떻게 협업할 것인가를 치열하게 고민하는 개발자입니다.
  
 # Core Focus
-- Unity ↔ Native Plugin (C#, PInvoke, JNI, Objective-C++)  
-- Unreal Engine Plugin & Module Integration (C++ Module, UBT, FMemory)  
+- Unity ↔ Native Plugin (C#, Java, Kotlin, JNI, Objective-C++)  
+- Unreal Engine Plugin & Module Integration 
 - Cross-Platform SDK Architecture (C++, C#, Python, CMake)  
 - Build Automation & Toolchain Development  
-- Rendering Optimization  Engine Extension
+- Game Optimization / Engine Extension
 
 #  Projects(Personal)
-1. [CornerStoneSDK](httpsgithub.comsouleidCornerStoneSDK) - Cross-Platform Core Framework(C++)
+1. [CornerStoneSDK](https://github.com/souleid/CornerStoneSDK) - Cross-Platform Core Framework(C++)
   - CustomMemoryAllocator,  CustomThread, ThreadPool (C++ Core), Multiplatform
   - Unity Native Plugin, Unreal Plugin 지원
   - Win64, MacOS, Android, iOS 지원
   - 목표  앞으로 엔진, 플랫폼별 네이티브 플러그인 작업시 뼈대로 사용
   - NC에서 UpdateSDK 배포 시 아쉬웠던 부분을 보충하며 업데이트 중인 SDK
 
-2. [UnityToastSample](httpsgithub.comsouleidUnityToastSample) - JNI 기반 네이티브 샘플
+2. [UnityToastSample](https://github.com/souleid/UnityToastSample) - JNI 기반 네이티브 샘플
   - Unity ↔ Android JNI 통신 테스트용 샘플
   - iOS Toast 구현 예정
   - 모바일 WebView 기능도 추가로 테스트 GamePackageManager by NHN
 
-3.  [ObjetLibrary](httpssouleid.github.ioUnityObjetLibrary) - 3D 도서관+미니게임(Unity 6.2)
+3.  [ObjetLibrary](https://souleid.github.io/Unity/ObjetLibrary) - 3D 도서관+미니게임(Unity 6.2)
   -  Unity AI 활용한 아파트 미니 도서관 자료 검색용 3D 메타버스
   -  할로윈 맞이 유령 피하기 미니게임 요소 추가
   -  스프링 카메라, 버츄얼패드 등 구현 관련 키워드 구성
   - 실제 도서 리스트 입출력 시스템 추가 예정(Backend 필요)
 
-# Files
-  - 이력서 - ParkEunil_Resume_2025.pdf
-  - 경력기술포트폴리오 - ParkEunil_Portfolio_2025.pdf
-
 # Contact  
 - E-mail souleid@gmail.com
-- LinkedIn [linkedin.comineunil-park-kor](httpswww.linkedin.comineunil-park-kor)  
-- GitHub [github.com/souleid](httpsgithub.comsouleid)
+- LinkedIn [linkedin.com/in/eunil-park-kor](https://www.linkedin.com/in/eunil-park-kor)  
+- GitHub [github.com/souleid](https://github.coms/souleid)
