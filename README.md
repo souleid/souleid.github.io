@@ -1,8 +1,8 @@
 # Eunil Park - Game/SDK Engineer
 
 # Summary
- 고교때부터 Win32, DirectX를 수학하고 
- 현재 경력만 13년차 게임 클라이언트 및 SDK 엔지니어입니다.
+ 고등학교때부터 C언어부터 시작해서  
+ 13년차 게임 클라이언트 및 SDK 엔지니어입니다.
  Unity, Unreal, Cocos2d-x 등의 게임 엔진 경험을 보유
  이외 국외 C++ 기반 3D 게임 엔진을 경력도 있습니다.
  직전 회사에서 SDK 개발자로써 개발지원 영역까지 업무 범위를 넓혀왔으며,
@@ -29,11 +29,16 @@
   - 모바일 WebView 기능도 추가로 테스트 GamePackageManager by NHN
 
 3.  [ObjetLibrary](https://souleid.github.io/Unity/ObjetLibrary) - 3D 도서관+미니게임(Unity 6.2)
-  -  Unity AI 활용한 아파트 미니 도서관 자료 검색용 3D 메타버스
-  -  할로윈 맞이 유령 피하기 미니게임 요소 추가
-  -  스프링 카메라, 버츄얼패드 등 구현 관련 키워드 구성
+  - Unity AI 활용한 아파트 미니 도서관 자료 검색용 3D 메타버스
+  - 할로윈 맞이 유령 피하기 미니게임 요소 추가
+  - 스프링 카메라, 버츄얼패드 등 구현 관련 키워드 구성
   - 실제 도서 리스트 입출력 시스템 추가 예정(Backend 필요)
 
+4.  [Grand Prix of Tennis Professionals](https://souleid.github.io/Unity/GTP) - 2D 반응형 인지 게임 (Unity 6.2)
+  - 상대의 샷 조합을 예측해 받아치는 반응형 인지 게임
+  - UI 연출은 Dotween 등을 사용하지 않고 구현
+  - 타겟 플랫폼 : WebGL, PC, Android, iOS
+    
 # Contact  
 - E-mail souleid@gmail.com
 - LinkedIn [linkedin.com/in/eunil-park-kor](https://www.linkedin.com/in/eunil-park-kor)  
