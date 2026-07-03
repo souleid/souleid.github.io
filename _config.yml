@@ -1,1 +1,5 @@
-theme: jekyll-theme-minimal
+# Static site — index.html serves the root directly (no Jekyll build).
+# .nojekyll disables the Jekyll pipeline; these excludes are a safety net.
+exclude:
+  - Unity
+  - docs
