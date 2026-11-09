@@ -22,12 +22,6 @@ Unity, Unreal, Cocos2d-x 등의 게임 엔진 경험을 보유하고, 이외 국
 
 ## Projects (Personal)
 
-### [CornerStoneSDK](https://github.com/souleid/CornerStoneSDK) · Cross-Platform Core Framework (C++)
-- Custom Memory Allocator, Custom Thread, ThreadPool (C++ Core), Multiplatform
-- Unity Native Plugin / Unreal Plugin 지원 — Win64, macOS, Android, iOS
-- (목표) 앞으로 엔진·플랫폼별 네이티브 플러그인 작업 시 뼈대로 사용
-- NC에서 UpdateSDK 배포 시 아쉬웠던 부분을 보충하며 업데이트 중인 SDK
-
 ### [UnityToastSample](https://github.com/souleid/UnityToastSample) · JNI 기반 네이티브 샘플
 - Unity ↔ Android JNI 통신 테스트용 샘플
 - iOS Toast 구현 예정, 모바일 WebView 기능도 추가 테스트 (GamePackageManager by NHN)

@@ -63,16 +63,22 @@
   <!-- ABOUT -->
   <div class="sec show" data-s="about">
     <h2>Summary</h2>
-    <p>고등학교 때 C언어부터 시작해, 12년차 게임 클라이언트 · SDK 엔지니어입니다. NCSOFT에서 <b>전사 모든 게임 타이틀이 사용하는 업데이트 SDK</b>를 담당하며 Unreal·Unity 플러그인과 <b>PlayStation·Nintendo 콘솔 연동</b>을 개발했습니다. 이외 국외 C++ 기반 3D 게임 엔진 경력도 있습니다.</p>
-    <p style="margin-top:8px;"><b>어떻게 협업할 것인가를 치열하게 고민하는 개발자</b>입니다. — 다른 팀이 믿고 가져다 쓸 수 있는 시스템을 만드는 일에 가장 큰 보람을 느낍니다.</p>
+    <p>13년째 게임 클라이언트와 SDK를 만들고 있습니다.</p>
+    <p style="margin-top:8px;">NCSOFT에서 5년 동안 <b>PC(퍼플)와 모바일 업데이트 SDK</b>를 담당했습니다. 전사 모든 게임 타이틀이 쓰는 Unreal/Unity 플러그인을 개발했고, PlayStation과 Nintendo 콘솔까지 지원 플랫폼을 넓혔습니다.</p>
+    <p style="margin-top:8px;">그 전에는 게임 클라이언트를 만들었습니다. XPRIZE 우승작 KitKit School 같은 글로벌 교육 앱을 iOS/Android로 개발했고, 자체 엔진 기반 PC 온라인 FPS(포인트블랭크)의 12개국 라이브를 맡았습니다.</p>
+    <p style="margin-top:8px;">경력의 시작은 <b>모바일 게임</b>이었습니다. Cocos2d-x와 사내 C++ 엔진으로 카카오 게임(액션스타G for Kakao)을 비롯한 <b>iOS/Android 게임을 개발하고 출시</b>했고, 카카오/페이스북 로그인 같은 외부 SDK도 연동했습니다.</p>
+    <p style="margin-top:8px;">프로그래밍은 고등학교 컴퓨터게임개발과에서 C언어로 처음 시작했습니다.</p>
+    <p style="margin-top:8px;"><b>어떻게 협업할 것인가를 치열하게 고민하는 개발자</b>입니다. 다른 팀이 믿고 가져다 쓸 수 있는 시스템을 만드는 일에서 가장 큰 보람을 느낍니다.</p>
     <h2>Core Focus</h2>
     <ul>
       <li>Unreal / Unity Native Plugin &amp; Module Integration</li>
-      <li>Cross-Platform SDK Architecture (C++, C#, Python, CMake) · Console(PlayStation·Nintendo)</li>
-      <li>Build Automation &amp; Toolchain Development</li>
+      <li>Mobile Native Integration (Android JNI, iOS Objective-C++, 3rd-party SDK)</li>
+      <li>Cross-Platform SDK Architecture (C++, C#, Python, CMake)</li>
+      <li>Platforms: Windows, macOS, Linux, Android, iOS, PlayStation, Nintendo</li>
+      <li>Build Automation &amp; Toolchain Development (Jenkins)</li>
       <li>Game Optimization / Engine Extension</li>
     </ul>
-    <p style="color:var(--muted);font-size:13px;margin-top:18px;">↑ 위 탭에서 이력서 · 경력기술서 · 포트폴리오를 바로 확인하실 수 있습니다.</p>
+    <p style="color:var(--muted);font-size:13px;margin-top:18px;">↑ 위 탭에서 이력서, 경력기술서, 포트폴리오를 바로 확인하실 수 있습니다.</p>
   </div>
 
   <!-- RESUME -->
@@ -188,19 +194,6 @@
 
   <!-- PORTFOLIO -->
   <div class="sec" data-s="portfolio">
-    <div class="card">
-      <div class="h">CornerStoneSDK</div>
-      <div class="d">크로스 엔진 · 멀티플랫폼 공용 플러그인 프레임워크 · C++14 · UE5 / Unity6</div>
-      <ul>
-        <li>실무에서 겪은 <b>엔진 ↔ std malloc 메모리 충돌 크래시</b> 문제에서 출발</li>
-        <li>엔진 비종속 순수 C++ 코어 + 엔진별 바인딩(4레이어: Core/Feature/Bridge/Interface) 분리</li>
-        <li>엔진 allocator를 주입(Injection)해 동기화하는 <b>Adaptive Memory Allocator</b> — 단편화·크래시 해소</li>
-        <li>메인 스레드 Hitch 방지용 <b>Thread Pool</b>(Producer-Consumer) 구현</li>
-        <li>지원: Win64 · macOS · Android · iOS</li>
-      </ul>
-      <a class="btn" href="https://github.com/souleid/CornerStoneSDK" target="_blank">GitHub 소스 →</a>
-    </div>
-
     <div class="card">
       <div class="h">Playable Demos <span style="font-size:13px;font-weight:400;color:var(--muted);">· Unity 6.2 / WebGL</span></div>
       <ul>
